@@ -43,5 +43,4 @@ In this example, we create watchdog object. Time until function call is 60 secon
 
 *Alive* call resets watchdog timer.
 
-
 If watchdog is no longer required, call the *Close* method.
